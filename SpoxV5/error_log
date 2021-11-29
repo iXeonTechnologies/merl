@@ -1,0 +1,19 @@
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(Spox/Anti/IP-BlackList.php): failed to open stream: No such file or directory in /home2/merledup/public_html/SpoxV5/index.php on line 20
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(Spox/Anti/IP-BlackList.php): failed to open stream: No such file or directory in /home2/merledup/public_html/SpoxV5/index.php on line 20
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(): Failed opening 'Spox/Anti/IP-BlackList.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/merledup/public_html/SpoxV5/index.php on line 20
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(Spox/Anti/Bot-Crawler.php): failed to open stream: No such file or directory in /home2/merledup/public_html/SpoxV5/index.php on line 21
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(Spox/Anti/Bot-Crawler.php): failed to open stream: No such file or directory in /home2/merledup/public_html/SpoxV5/index.php on line 21
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(): Failed opening 'Spox/Anti/Bot-Crawler.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/merledup/public_html/SpoxV5/index.php on line 21
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(Spox/Anti/Bot-Spox.php): failed to open stream: No such file or directory in /home2/merledup/public_html/SpoxV5/index.php on line 22
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(Spox/Anti/Bot-Spox.php): failed to open stream: No such file or directory in /home2/merledup/public_html/SpoxV5/index.php on line 22
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(): Failed opening 'Spox/Anti/Bot-Spox.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/merledup/public_html/SpoxV5/index.php on line 22
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(Spox/Functions/Fuck-you.php): failed to open stream: No such file or directory in /home2/merledup/public_html/SpoxV5/index.php on line 23
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(Spox/Functions/Fuck-you.php): failed to open stream: No such file or directory in /home2/merledup/public_html/SpoxV5/index.php on line 23
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(): Failed opening 'Spox/Functions/Fuck-you.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/merledup/public_html/SpoxV5/index.php on line 23
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(Spox/Anti/Dila_DZ.php): failed to open stream: No such file or directory in /home2/merledup/public_html/SpoxV5/index.php on line 24
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(Spox/Anti/Dila_DZ.php): failed to open stream: No such file or directory in /home2/merledup/public_html/SpoxV5/index.php on line 24
+[02-Sep-2021 01:03:01 UTC] PHP Warning:  include(): Failed opening 'Spox/Anti/Dila_DZ.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/merledup/public_html/SpoxV5/index.php on line 24
+[02-Sep-2021 01:03:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_string_between() in /home2/merledup/public_html/SpoxV5/index.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/merledup/public_html/SpoxV5/index.php on line 49

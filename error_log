@@ -1,0 +1,49 @@
+[10-Jan-2021 13:32:56 UTC] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ')' in /home2/merledup/staging.merledupk.org/member.php on line 64
+[10-Jan-2021 13:33:06 UTC] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ')' in /home2/merledup/staging.merledupk.org/member.php on line 64
+[10-Jan-2021 13:33:27 UTC] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ')' in /home2/merledup/staging.merledupk.org/member.php on line 64
+[10-Jan-2021 13:33:49 UTC] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ')' in /home2/merledup/staging.merledupk.org/member.php on line 64
+[10-Jan-2021 13:34:38 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home2/merledup/staging.merledupk.org/member.php on line 22
+[10-Jan-2021 13:34:42 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home2/merledup/staging.merledupk.org/member.php on line 22
+[10-Jan-2021 13:34:54 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home2/merledup/staging.merledupk.org/member.php on line 22
+[10-Jan-2021 13:35:00 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home2/merledup/staging.merledupk.org/member.php on line 22
+[10-Jan-2021 13:35:08 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home2/merledup/staging.merledupk.org/member.php on line 22
+[10-Jan-2021 13:35:52 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home2/merledup/staging.merledupk.org/member.php on line 22
+[10-Jan-2021 13:35:57 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home2/merledup/staging.merledupk.org/member.php on line 22
+[10-Jan-2021 13:36:03 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home2/merledup/staging.merledupk.org/member.php on line 22
+[10-Jan-2021 13:36:26 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home2/merledup/staging.merledupk.org/member.php on line 22
+[10-Jan-2021 13:36:36 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home2/merledup/staging.merledupk.org/member.php on line 22
+[10-Jan-2021 13:38:29 UTC] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ')' in /home2/merledup/staging.merledupk.org/member.php on line 62
+[10-Jan-2021 14:44:03 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/merledup/staging.merledupk.org/member.php:460
+Stack trace:
+#0 {main}
+  thrown in /home2/merledup/staging.merledupk.org/member.php on line 460
+[10-Jan-2021 14:44:47 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/merledup/staging.merledupk.org/member.php:497
+Stack trace:
+#0 {main}
+  thrown in /home2/merledup/staging.merledupk.org/member.php on line 497
+[10-Jan-2021 14:44:52 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/merledup/staging.merledupk.org/member.php:497
+Stack trace:
+#0 {main}
+  thrown in /home2/merledup/staging.merledupk.org/member.php on line 497
+[10-Jan-2021 14:46:28 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/merledup/staging.merledupk.org/member.php:497
+Stack trace:
+#0 {main}
+  thrown in /home2/merledup/staging.merledupk.org/member.php on line 497
+[10-Jan-2021 14:47:14 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/merledup/staging.merledupk.org/member.php:497
+Stack trace:
+#0 {main}
+  thrown in /home2/merledup/staging.merledupk.org/member.php on line 497
+[10-Jan-2021 14:47:44 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/merledup/staging.merledupk.org/member.php:497
+Stack trace:
+#0 {main}
+  thrown in /home2/merledup/staging.merledupk.org/member.php on line 497
+[10-Jan-2021 14:49:20 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/merledup/staging.merledupk.org/member.php:497
+Stack trace:
+#0 {main}
+  thrown in /home2/merledup/staging.merledupk.org/member.php on line 497
+[10-Jan-2021 14:49:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/merledup/staging.merledupk.org/member.php:498
+Stack trace:
+#0 {main}
+  thrown in /home2/merledup/staging.merledupk.org/member.php on line 498
+[10-Jan-2021 15:45:32 UTC] PHP Fatal error:  Can't use function return value in write context in /home2/merledup/staging.merledupk.org/member.php on line 459
+[10-Jan-2021 15:45:37 UTC] PHP Fatal error:  Can't use function return value in write context in /home2/merledup/staging.merledupk.org/member.php on line 459
